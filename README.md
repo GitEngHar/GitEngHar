@@ -6,10 +6,10 @@ I'm a passionate Backend & DevOps Engineer based in Tokyo, Japan 🇯🇵.
 
 ### 🛠️ My Tech Stack:
 
-- **Languages:** Java, Go, Python, TypeScript
-- **Frameworks:** Spring Boot, React, gRPC
+- **Languages:** Java, Kotlin, Go, Python, TypeScript
+- **Frameworks:** Spring Boot, React
 - **Cloud & Infra:** Kubernetes (EKS, K3s), AWS, Terraform, Docker, Prometheus, Grafana
-- **CI/CD:** GitHub Actions, CodeDeploy, Jenkins, Pulumi
+- **CI/CD:** GitHub Actions, CodeDeploy, Jenkins
 - **Architecture & Design:** Microservices, DDD, Clean Architecture
 
 ---
