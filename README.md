@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there 👋 I'm gitenghar
 
-<!--
-**GitEngHar/GitEngHar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Backend & DevOps Engineer based in Tokyo, Japan 🇯🇵.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack:
+
+- **Languages:** Java, Go, Python, TypeScript
+- **Frameworks:** Spring Boot, React, gRPC
+- **Cloud & Infra:** Kubernetes (EKS, K3s), AWS, Terraform, Docker, Prometheus, Grafana
+- **CI/CD:** GitHub Actions, CodeDeploy, Jenkins, Pulumi
+- **Architecture & Design:** Microservices, DDD, Clean Architecture
+
+---
+
+### 🏆 GitHub Profile Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gitenghar&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats:
+
+![gitenghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitenghar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitenghar&layout=compact&theme=radical)
+
+---
+
+### 🔥 Let's Connect!
+
+Feel free to reach out or collaborate on interesting projects! 🚀✨
