@@ -2,6 +2,8 @@
 
 I'm a passionate Backend & DevOps Engineer based in Tokyo, Japan 🇯🇵.
 
+![](https://raw.githubusercontent.com/GitEngHar/GitEngHar/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🛠️ My Tech Stack:
