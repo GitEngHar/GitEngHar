@@ -69,33 +69,13 @@
 
 <br />
 
----
-
-<h2 align="center">🏆 GitHub Trophy</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      width="100%"
-      src="https://github-profile-trophy-lilac-nine.vercel.app/?username=gitenghar&theme=flat&column=8&margin-w=8&margin-h=8"
-      alt="GitHub Trophy"
-    />
-  </a>
-</div>
-
-<br />
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img
-    width="49%"
-    height="180em"
-    src="https://github-readme-stats-six-jade-91.vercel.app/api?username=gitenghar&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  /><img
+<img
     width="41%"
     height="180em"
     src="https://github-readme-stats-six-jade-91.vercel.app/api/top-langs/?username=gitenghar&layout=compact&theme=radical&hide_border=true"
